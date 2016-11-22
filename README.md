@@ -65,4 +65,4 @@ during iteration, so that it speeds up the process and reduces inconvenience.
     end
     ```
 ## License
-BSD 2-Clause, see [LICENSE] for details.
+BSD 2-Clause, see [LICENSE](LICENSE) for details.
